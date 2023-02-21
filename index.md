@@ -1,6 +1,6 @@
 ---
 title: Accueil
 ---
-# L'Échappée Belle
+# Mon super site
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+J'ai créé ce site avec [Scribouilli](https://github.com/Scribouilli/scribouilli) ! C'est facile d'utilisation, je vais explorer un peu plus les possibilité de cet outil. 😉
